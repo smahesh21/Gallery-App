@@ -1,0 +1,15 @@
+.photo-container {
+  margin-right: 12px;
+}
+.thumbnail {
+  height: 40px;
+  width: 40px;
+  opacity: 0.5;
+}
+.active {
+  opacity: 1;
+}
+.button {
+  border: 0px none;
+  background-color: transparent;
+}
